@@ -1,0 +1,17 @@
+{
+    "SQL" : {
+        "SERVER": "SRVWEBDATA",
+        "DATABASE":"WWW_DBMATRIKS_WEB",
+        "UID":"ARASTIRMA",
+        "PWD":"Kristal3!?"
+            },
+    
+    "MONGODB" : {
+        "IP" : "127.0.0.1",
+        "PORT" : 27017,
+        "DATABASE" : "TRADE_SIGNAL",
+        "COLLECTION_5_MINUTES" : "PRICE_DATA_5_MINUTES",
+        "COLLECTION_15_MINUTES" : "PRICE_DATA_15_MINUTES",
+        "COLLECTION_1_MINUTES" : "PRICE_DATA_1_MINUTES"
+    }
+}
